@@ -26,4 +26,4 @@ define GPIOs, Brigthness and Timezones in the code.
 
 ## Video:
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/embed/tIkXZ8vg2Gs)](https://youtu.be/tIkXZ8vg2Gs)
+[![Video](https://img.youtube.com/vi/tIkXZ8vg2Gs/0.jpg)](https://youtu.be/tIkXZ8vg2Gs)
